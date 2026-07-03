@@ -34,7 +34,7 @@ Dzardzongke is a severely endangered Tibetan variety spoken in South Mustang, Ne
 
 For full background, methodology, and linguistic details, see the accompanying paper:
 
-> Hannah M. Claus, Songbo Hu, Emre Isik, Anna Korhonen, Kitty Wenying Liu and Marieke Meelen. 2026. Revitalising Endangered Languages and Cultural Heritage through Language Technology: A Pilot Study for Dzardzongke. In *Proceedings of ComputEL 2026*. [https://aclanthology.org/2026.computel-1.8/](https://aclanthology.org/2026.computel-1.8/)
+> Hannah Claus, Songbo Hu, Emre Isik, Anna Korhonen, Kitty Liu, and Marieke Meelen. 2026. [Revitalising Endangered Languages and Cultural Heritage through Language Technology: A Pilot Study for Dzardzongke](https://aclanthology.org/2026.computel-1.8/). In Proceedings of the Ninth Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-9), pages 72–79, San Diego, California, USA. Association for Computational Linguistics.
 
 ---
 
