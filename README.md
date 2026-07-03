@@ -3,6 +3,7 @@
 **Hannah M. Claus, Songbo Hu, Emre Isik, Anna Korhonen, Kitty Wenying Liu and Marieke Meelen**  
 University of Cambridge  
 `{hmc78, sh2091, sei31, alk23, wl399, mm986}@cam.ac.uk`
+Link to paper: [Revitalising Endangered Languages and Cultural Heritage through Language Technology: A Pilot Study for Dzardzongke](https://aclanthology.org/2026.computel-1.8/)
 
 This repository contains the first prototype of a mobile application designed to support the preservation and revitalisation of Dzardzongke Tibetan, an endangered language spoken by approximately 1,200 people in South Mustang, Nepal. The app supports literacy development and cultural heritage preservation through flashcards, a searchable dictionary with fuzzy search, themed conversations, multiple-choice quizzes, and a culture section with an interactive map. It is available as a web app at [dzardzongke.vercel.app](https://dzardzongke.vercel.app).
 
@@ -33,7 +34,7 @@ Dzardzongke is a severely endangered Tibetan variety spoken in South Mustang, Ne
 
 For full background, methodology, and linguistic details, see the accompanying paper:
 
-> Hannah M. Claus, Songbo Hu, Emre Isik, Anna Korhonen, Kitty Wenying Liu and Marieke Meelen. 2026. Revitalising Endangered Languages and Cultural Heritage through Language Technology: A Pilot Study for Dzardzongke. In *Proceedings of ComputEL 2026*. (Link will be added soon)
+> Hannah M. Claus, Songbo Hu, Emre Isik, Anna Korhonen, Kitty Wenying Liu and Marieke Meelen. 2026. Revitalising Endangered Languages and Cultural Heritage through Language Technology: A Pilot Study for Dzardzongke. In *Proceedings of ComputEL 2026*. [https://aclanthology.org/2026.computel-1.8/](https://aclanthology.org/2026.computel-1.8/)
 
 ---
 
@@ -225,13 +226,29 @@ eas build --platform android --profile preview
 If you use this app or codebase in your research, please cite (will be updated soon):
 
 ```bibtex
-@inproceedings{claus-etal-2026-dzardzongke,
-  author    = {Claus, Hannah M. and Hu, Songbo and Isik, Emre and
-               Korhonen, Anna and Liu, Kitty Wenying and Meelen, Marieke},
-  title     = {Revitalising Endangered Languages and Cultural Heritage through
-               Language Technology: A Pilot Study for {Dzardzongke}},
-  booktitle = {Proceedings of ComputEL 2026},
-  year      = {2026}
+@inproceedings{claus-etal-2026-revitalising,
+    title = "Revitalising Endangered Languages and Cultural Heritage through Language Technology: A Pilot Study for Dzardzongke",
+    author = "Claus, Hannah  and
+      Hu, Songbo  and
+      Isik, Emre  and
+      Korhonen, Anna  and
+      Liu, Kitty  and
+      Meelen, Marieke",
+    editor = "Agyapong, Godfred  and
+      Moeller, Sarah  and
+      Arppe, Antti  and
+      Marashian, Ali  and
+      Rosenblum, Daisy",
+    booktitle = "Proceedings of the Ninth Workshop on the Use of Computational Methods in the Study of Endangered Languages ({C}omput{EL}-9)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.computel-1.8/",
+    doi = "10.18653/v1/2026.computel-1.8",
+    pages = "72--79",
+    ISBN = "979-8-89176-422-4",
+    abstract = "In this short paper, we present the first prototype of a mobile application to help preserve and revitalise the endangered language and cultural heritage of the speakers of Dzardzongke, a Tibetic language spoken in South Mustang, Nepal. With this pilot study, we provide a collaborative and highly accessible solution to revitalisation that has potential for any community interested in preserving their language and culture."
 }
 ```
 
