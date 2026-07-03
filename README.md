@@ -3,6 +3,7 @@
 **Hannah M. Claus, Songbo Hu, Emre Isik, Anna Korhonen, Kitty Wenying Liu and Marieke Meelen**  
 University of Cambridge  
 `{hmc78, sh2091, sei31, alk23, wl399, mm986}@cam.ac.uk`
+
 Link to paper: [Revitalising Endangered Languages and Cultural Heritage through Language Technology: A Pilot Study for Dzardzongke](https://aclanthology.org/2026.computel-1.8/)
 
 This repository contains the first prototype of a mobile application designed to support the preservation and revitalisation of Dzardzongke Tibetan, an endangered language spoken by approximately 1,200 people in South Mustang, Nepal. The app supports literacy development and cultural heritage preservation through flashcards, a searchable dictionary with fuzzy search, themed conversations, multiple-choice quizzes, and a culture section with an interactive map. It is available as a web app at [dzardzongke.vercel.app](https://dzardzongke.vercel.app).
